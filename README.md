@@ -11,3 +11,7 @@ hem ortak iletişim için hemde bireysel işlerin de görülebileceği bir platf
 
 
 -Furkan Taha Saranda-
+
+video linkleri =
+Full anlatım videosu (konuşmalı) = https://www.youtube.com/watch?v=uQfxDKla2HE
+kısa gösterim videosu (konuşmasız) = https://www.youtube.com/watch?v=WZ_2LnSKGUM
