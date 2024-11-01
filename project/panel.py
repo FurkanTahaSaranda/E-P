@@ -13,7 +13,7 @@ from docx2pdf import convert
 
 
 
-API_KEY = "AIzaSyCCzHTGlPwYEOJL-bSP_hgUFW-f2Dvr6Bk"
+API_KEY = "" #buraya kendi api keyinizi yazarak programı çalıştırabilirsiniz
 genai.configure(api_key=API_KEY)
 
 
